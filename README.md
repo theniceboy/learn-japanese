@@ -1,5 +1,5 @@
 # Learn Japanese with Shell!
 
-## `python3 main.py` to start!
+## `python3 main-full.py` to start!
 
 
